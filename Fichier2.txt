@@ -4,3 +4,6 @@ J'écris un titre pour le fichier 2
 git add . : pour ajouter tous les fichiers à l'index
 git commit -a -m : pour commit avec un message les fichiers ajouté à l'index
 git push origin master : pour push sur le repo
+git branch : donne les branches du Repos
+git branch nouvelle-branche : crée une nouvelle branche
+git checkout nouvelle-branche : pour changer de branche
